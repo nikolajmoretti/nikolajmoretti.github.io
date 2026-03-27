@@ -7,7 +7,7 @@ excerpt: 'In this paper, we characterize the optimal deficit-rule for a present-
 date: 2025-01-17
 venue: 'CEPA Discussion Paper'
 #paperurl: https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/67027/file/cepa85.pdf'
-#citation: 'Bergmann, Tobias and Nikolaj Moretti (2025). &quot; Trading deficits for investment: Optimal deficit rules for present-biased governments.&quot; <i>CEPA Discussion Paper</i>. No. 85.'
+#citation: 'Bergmann, Tobias and Nikolaj Moretti (2025). &quot; Trading deficits for investment: Optimal deficit rules for present-biased governments.&quot; <i>CEPA Discussion Paper (R&R at European Journal of Political Economy</i>. No. 85.'
 ---
 **Abstract**: We develop a simple two-period principal-agent model in which a present-biased government, the agent, chooses public investment levels given a deficit rule imposed by the principal. The principal sets a deficit cap to curb current debt-financed consumption. In doing so, it also reduces long-term government investment. We characterize the optimal deficit rule that balances these opposing effects.
 Our analysis yields three key insights. First, a deficit rule is always a second-best instrument resulting in nonzero deficits and inefficiently low public investment. Second, while identifying the optimal deficit rule is challenging in practice, we demonstrate that under general conditions, shocks to the productivity of public investment entail an increase in the optimal deficit cap. 
