@@ -5,16 +5,29 @@ permalink: /talks/
 author_profile: true
 ---
 
+<style>
+.talks-year { margin-bottom: 2em; }
+.talks-year h3 { font-size: 1em; font-weight: bold; border-bottom: 1px solid #aaa; padding-bottom: 0.2em; margin-bottom: 0.6em; margin-top: 0; }
+.talks-list { list-style: none; padding: 0; margin: 0; }
+.talk-item { margin-bottom: 0.8em; line-height: 1.4; font-size: 0.85em; }
+.talk-venue-line { }
+.talk-type { color: #666; }
+.talk-title { display: block; font-style: italic; font-size: 0.9em; color: #555; padding-left: 0.5em; }
+</style>
 
+{% assign talks_by_year = site.talks | group_by_exp: "talk", "talk.date | date: '%Y'" | sort: "name" | reverse %}
 
-{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p> 
-
-{% endif %}
-
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+{% for year_group in talks_by_year %}
+<div class="talks-year">
+  <h3>{{ year_group.name }}</h3>
+  <ul class="talks-list">
+    {% assign sorted_talks = year_group.items | sort: "date" | reverse %}
+    {% for talk in sorted_talks %}
+    <li class="talk-item">
+      <span class="talk-venue-line">{{ talk.venue }} ({{ talk.location }}) &mdash; {{ talk.date | date: "%m/%Y" }} <span class="talk-type">[{% if talk.type == "Conference presentation" %}Conference{% else %}Seminar{% endif %}]</span></span>
+      <span class="talk-title">{{ talk.title }}</span>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
 {% endfor %}
-
