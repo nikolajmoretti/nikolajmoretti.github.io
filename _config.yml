@@ -193,6 +193,9 @@ collections:
   work_in_progress:
     output: true
     permalink: /:collection/:path/
+  policy_work:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -260,6 +263,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _policy_work
+  - scope:
+      path: ""
+      type: policy_work
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _talks
   - scope:
       path: ""

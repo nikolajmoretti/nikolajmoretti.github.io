@@ -1,0 +1,35 @@
+{% include base_path %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+
+    <h2 class="archive__item-title" itemprop="headline">{{ title }}</h2>
+
+    {% if post.authors %}
+      <p>{{ post.authors }}</p>
+    {% endif %}
+
+    {% if post.outlet %}
+      <p><i>{{ post.outlet }}</i>{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}{% if post.paperurl %} &mdash; <a href="{{ post.paperurl }}"><u>Download</u></a>{% endif %}</p>
+    {% endif %}
+
+    {% if post.excerpt %}
+      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+    {% endif %}
+
+    {% if post.media_coverage %}
+      <p class="archive__item-excerpt"><strong>Media:</strong>
+      {% for item in post.media_coverage %}
+        {% if item.url %}<a href="{{ item.url }}">{{ item.outlet }}</a>{% else %}{{ item.outlet }}{% endif %} ({{ item.date | date: "%m/%Y" }}){% unless forloop.last %}, {% endunless %}
+      {% endfor %}
+      </p>
+    {% endif %}
+
+  </article>
+</div>

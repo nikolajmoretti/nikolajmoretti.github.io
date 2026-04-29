@@ -7,7 +7,8 @@ author_profile: true
 
 <style>
 .archive__item-title { font-size: 1em; }
-.archive__item p { font-size: 0.85em; }
+.archive__item p { font-size: 0.78em; }
+.archive__item-excerpt { font-size: 0.72em; }
 </style>
 
 {% if author.googlescholar %}
