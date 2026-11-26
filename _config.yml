@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Nikolaj Moretti"
   avatar           : "nmoretti.JPG"
-  bio              : "PhD candidate at PIK Potsdam and the University of Potsdam"
-  location         : "Berlin"
+  bio              : "Researcher at ZEW – Leibniz Centre for European Economic Research, Mannheim"
+  location         : "Mannheim and Berlin, Germany"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : nikolaj.moretti@pik-potsdam.de
+  email            : nikolaj.moretti@zew.de
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
