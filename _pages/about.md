@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi and welcome to my web page! I'm Nikolaj Moretti, a researcher in the Environmental and Climate Economics department at the [ZEW – Leibniz Centre for European Economic Research in Mannheim](https://www.zew.de/en/research-at-zew/environmental-and-climate-economics).
+Hi and welcome to my web page! I'm Nikolaj Moretti, a researcher in the [Environmental and Climate Economics department](https://www.zew.de/en/research-at-zew/environmental-and-climate-economics) at the [ZEW – Leibniz Centre for European Economic Research in Mannheim](https://www.zew.de/en/).
 
 I work on topics at the intersection of climate policy and public debt, intergenerational altruism, and mechanisms for the provision of global public goods. My methodological toolkit encompasses formal and numerical modelling.
 
