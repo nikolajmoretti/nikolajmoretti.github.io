@@ -2,7 +2,7 @@
 title: "Interaction effects between dynamic hybrid products and traditional deferred annuities in the German life insurance market"
 authors: <b>Moretti, N.</b>, Bartels, J.
 collection: publications
-permalink: #/publication/2021-02-01-dynamic-hybrid-products.md
+permalink: /publication/2021-02-01-dynamic-hybrid-products
 excerpt: 'In this paper, we study interaction effects between dynamic hybrid products and traditional deferred annuity contracts that are sold by the same insurance company. We build a model including a detailed representation of the profit participation mechanism and analyse it using a Monte Carlo simulation.'
 date: 2021-02-01
 venue: 'Financial Markets and Portfolio Management'
