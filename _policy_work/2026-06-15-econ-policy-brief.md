@@ -1,7 +1,7 @@
 ---
 title: "Energy Crisis Relief as Implicit Insurance: Fossil Import Dependence and Policy Design"
 collection: policy_work
-authors: "Timothé Beaufils, Ulrich Eydam, Maik Heinemann, Matthias Kalkuhl, Nikolaj Moretti, Andreas Peichl, Philipp M. Richter, and Joschka Wanner"
+authors: Beaufils, T., Eydam, U., Heinemann, M., Kalkuhl, M., <b>Moretti, N.</b>, Peichl, A., Richter, P.M., Wanner, J.
 outlet: "EconPol Policy Brief"
 date: 2026-06-15
 paperurl: "https://www.ifo.de/en/econpol/publications/2026/working-paper/energy-crisis-relief-implicit-insurance-fossil-import-dependence"

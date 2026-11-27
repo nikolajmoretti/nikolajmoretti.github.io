@@ -1,7 +1,7 @@
 ---
 title: "Kurzdossier: Gezielt entlasten, fossile Importabhängigkeit verringern"
 collection: policy_work
-authors: "Matthias Kalkuhl, Timothé Beaufils, Ulrich Eydam, Maik Heinemann, Nikolaj Moretti, Andreas Peichl und Philipp M. Richter"
+authors: Kalkuhl, M., Beaufils, T., Eydam, U., Heinemann, M., <b>Moretti, N.</b>, Peichl, A., Richter, P.M.
 outlet: "Ariadne (Kopernikus-Projekt)"
 date: 2026-04-02
 paperurl: "https://ariadneprojekt.de/media/2026/04/Ariadne-Kurzdossier_Energiekrise_April2026.pdf"

@@ -1,6 +1,6 @@
 ---
 title: "Income Inequality, Bequest Constraints, and Long-Term Public Investment"
-authors: <b>Moretti, N.</b>; Kalkuhl, M.; Kellner, M.
+authors: <b>Moretti, N.</b>, Kalkuhl, M., Kellner, M.
 collection: workingpapers
 permalink: /workingpaper/2026-11-20-bequest-constraints
 excerpt: "We model altruistic dynasties with stochastic intergenerational mobility where a government aggregates household preferences. When binding bequest constraints prevent parents from borrowing against their children's future income, political aggregation creates a wedge between the market interest rate and a higher politically-revealed rate, leading to underprovision of long-lived public goods. Calibrated to US income quintiles and carbon abatement, this wedge exceeds 1.5 percentage points above the 2.84% market rate, depressing the carbon price by roughly 27% below its efficient level."
