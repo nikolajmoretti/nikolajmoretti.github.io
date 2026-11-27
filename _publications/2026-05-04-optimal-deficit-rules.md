@@ -2,7 +2,7 @@
 title: "Trading budget deficits for public investment: Optimal deficit rules for present-biased governments"
 authors: Bergmann, T. <b>Moretti, N.</b>
 collection: publications
-permalink: 
+permalink: /publication/2026-05-04-optimal-deficit-rules
 excerpt: 'In this paper, we characterize the optimal deficit-rule for a present-biased government, accounting for the distortion of long-term investment it induces. We analyze the effect of a shock to the productivity of investment on the optimal deficit-cap. Furthermore, we compare the welfare outcome of a balanced budget rule, the absence of any deficit rule, and a benchmark deficit rule.'
 date: 2026-05-04
 venue: 'European Journal of Political Economy'

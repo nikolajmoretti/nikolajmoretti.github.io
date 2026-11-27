@@ -2,7 +2,7 @@
 title: "A Green-Golden Rule for Climate Policy"
 authors: Edenhofer, O.; Eydam, U.; Heinemann, M.; Kalkuhl, M.;  <b>Moretti, N.</b>
 collection: workingpapers
-permalink: 
+permalink: /workingpaper/2025-02-17-green-golden-rule
 excerpt: ' We elaborate a fiscal rule that conditions the admissible deficit for a government on the observed reduction in carbon emissions based on a welfare economic framework. We call this adaptation of the classical “golden rule of public finance” to the climate context “green-golden rule”. The conceptualization of climate-investment as reduction in carbon emissions has a key advantage: Carbon emissions are measurable in t/CO2 and homogeneous with returns given by the Social Cost of Carbon. This makes it possible to overcome the major criticisms to the golden rule, namely the difficulty to assess the returns on public investment and the vagueness of the definition of invesmtent and the connected “creative accounting critique”. We quantify a quantity version and a price version of the rule for the case of Germany. '
 date: 2025-02-17
 venue: ‘SSRN’

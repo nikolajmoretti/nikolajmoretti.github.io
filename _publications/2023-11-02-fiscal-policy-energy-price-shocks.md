@@ -2,7 +2,7 @@
 title: "Fiscal Policy and Energy Price Shocks"
 authors: Blanz, A., Eydam, U., Heinemann, M., Kalkuhl, M., <b>Moretti, N.</b>
 collection: publications
-permalink: 
+permalink: /publication/2023-11-02-fiscal-policy-energy-price-shocks
 excerpt: 'In this paper, we analyse the effect of different fiscal policy measures and financing measures in response to an energy price shock in a DSGE model with heterogeneous households differing with respect to their energy consumption and savings capacity.'
 date: 2026-02-16
 venue: 'Energy Policy'
